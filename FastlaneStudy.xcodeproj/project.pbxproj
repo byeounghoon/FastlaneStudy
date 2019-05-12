@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		21E0359DD1FC89F7D45FEF7A /* Pods_FastlaneStudy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEFF137A90E4C35BF26ABD15 /* Pods_FastlaneStudy.framework */; };
 		4839ED112287F6BF00E45C81 /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4839ED102287F6BF00E45C81 /* SnapshotHelper.swift */; };
+		4839ED162288014900E45C81 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4839ED152288014900E45C81 /* README.md */; };
 		48DA722C2286B8340046D5DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA722B2286B8340046D5DE /* AppDelegate.swift */; };
 		48DA722E2286B8340046D5DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA722D2286B8340046D5DE /* ViewController.swift */; };
 		48DA72312286B8340046D5DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48DA722F2286B8340046D5DE /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 		4839ED102287F6BF00E45C81 /* SnapshotHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SnapshotHelper.swift; path = fastlane/SnapshotHelper.swift; sourceTree = SOURCE_ROOT; };
 		4839ED122287FF0600E45C81 /* FastlaneStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastlaneStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4839ED132287FF0600E45C81 /* FastlaneStudyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneStudyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4839ED152288014900E45C81 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		48DA722B2286B8340046D5DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48DA722D2286B8340046D5DE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		48DA72302286B8340046D5DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				48DA72322286B8340046D5DE /* Assets.xcassets */,
 				48DA72342286B8340046D5DE /* LaunchScreen.storyboard */,
 				48DA72372286B8340046D5DE /* Info.plist */,
+				4839ED152288014900E45C81 /* README.md */,
 			);
 			path = FastlaneStudy;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			files = (
 				48DA72362286B8340046D5DE /* LaunchScreen.storyboard in Resources */,
 				48DA72332286B8340046D5DE /* Assets.xcassets in Resources */,
+				4839ED162288014900E45C81 /* README.md in Resources */,
 				48DA72312286B8340046D5DE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
